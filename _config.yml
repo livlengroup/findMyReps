@@ -1,0 +1,10 @@
+port:  5000
+markdown: kramdown
+name: "My Reps"
+url: https://joshkwannacode.github.io/josh-k-data-made-find-reps
+encoding: utf-8
+timezone: America/Chicago
+description: "Enter your address to find and contact your federal, state, county and local elected representatives"
+gems:
+  - jekyll-redirect-from
+google_api_key: AIzaSyB9oDxDuRjHwtugnnq7thnfAWM71zqLVEQ
